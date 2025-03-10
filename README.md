@@ -26,7 +26,7 @@ For the Arduino library:
 1. Open the Arduino IDE.
 2. Navigate to **Sketch** > **Include Library** > **Manage Libraries**.
 3. Search for **Servo** and install it.
-![image](https://github.com/user-attachments/assets/5a1a4058-9acc-45d1-ac7d-c6c5e7f4fed2)
+![image](https://github.com/user-attachments/assets/cc7a076c-84c5-4f44-b931-d97642484676)
 ## Wiring Connections
 Connect the ESCs to the Arduino as follows:
 
@@ -43,8 +43,7 @@ Connect the ESCs to the Arduino as follows:
 
 ## Troubleshooting
 - **Python Not Recognized?** Ensure Python is added to the system PATH.
-
-![image](https://github.com/user-attachments/assets/cc7a076c-84c5-4f44-b931-d97642484676)
+![image](https://github.com/user-attachments/assets/5a1a4058-9acc-45d1-ac7d-c6c5e7f4fed2)
 - **Mediapipe Installation Error?** Try using Python **3.12 or lower** if you encounter issues.
 - **Arduino Connection Issues?** Verify that the correct COM port is specified in the Python script.
 
